@@ -21,7 +21,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Home Page'),
+          title: Text('Home Halaman'),
           backgroundColor: Colors.redAccent,
         ),
         body: Row(
